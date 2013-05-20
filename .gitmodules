@@ -1,0 +1,6 @@
+[submodule "edw-Storm-Flume-Connectors"]
+	path = edw-Storm-Flume-Connectors
+	url = git@github.com:ExpediaInc/edw-Storm-Flume-Connectors.git
+[submodule "edw-Storm-Monitoring-Hooks"]
+	path = edw-Storm-Monitoring-Hooks
+	url = git@github.com:ExpediaInc/edw-Storm-Monitoring-Hooks.git
