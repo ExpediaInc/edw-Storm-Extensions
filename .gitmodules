@@ -4,3 +4,6 @@
 [submodule "edw-Storm-Monitoring-Hooks"]
 	path = edw-Storm-Monitoring-Hooks
 	url = git@github.com:ExpediaInc/edw-Storm-Monitoring-Hooks.git
+[submodule "edw-Storm-Flume-Scheduler"]
+	path = edw-Storm-Flume-Scheduler
+	url = git@github.com:ExpediaInc/edw-Storm-Flume-Scheduler.git
